@@ -1,2 +1,8 @@
-# bubbleee-thumbnail-team
-AI-powered team for analyzing, evaluating, and improving YouTube thumbnails for the Bubbleee kids animation channel. Includes AI agents for composition, character poses, colors, lighting, and visual quality.
+# Bubbleee: рабочая папка канала
+
+Здесь я храню всё, что нужно для создания видео.
+
+## Что внутри
+- prompts/ — промпты для генерации картинок и видео
+- scripts/ — сценарии и тексты видео
+- ideas.md — список идей для новых серий
